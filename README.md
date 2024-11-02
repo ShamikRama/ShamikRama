@@ -3,6 +3,3 @@
 </p>
 
 ### <img width="26" src="4.png" alt="4"/> Технологии
-
-
-github-contribution-grid-snake.svg
