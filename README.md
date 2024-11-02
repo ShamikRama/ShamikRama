@@ -11,8 +11,6 @@ Golang разработчик, закончил школу 21 от Сбера. �
 <img width="650" src="snake.svg" alt="snake"/>
 </p>
 
-### <img width="26" src="4.png" alt="4"/> Технологии
-
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
