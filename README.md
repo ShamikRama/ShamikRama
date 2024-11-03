@@ -1,11 +1,10 @@
 
 
-Golang разработчик, закончил школу 21 от Сбера. Студент КНИТУ(Казанский Нациаональный Исследовательский Технологический Университет)
-Стэк: Golang, Kafka, Postgresql, Postman, Docker, Kuber
+### <p align="center"> Golang разработчик, закончил школу 21 от Сбера. Студент КНИТУ(Казанский Нациаональный Исследовательский Технологический Университет)
+### <p align="center"> Стэк: Golang, Kafka, Postgresql, Postman, Docker, Kuber
 
 
-<p align="center"> <a href="https://t.me/sonialeena" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="tg.svg" /> <source media="(prefers-color-scheme: light)" srcset="tg.svg" /> <img src="tg.svg" width="70" height="20" /> </picture> </a>
-
+<p align="center"> <a href="https://t.me/sonialeena" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="tg.svg" /> <source media="(prefers-color-scheme: light)" srcset="tg.svg" /> <img src="tg.svg" width="75" height="30" /> </picture> </a>
 
 
 <p align="center">
