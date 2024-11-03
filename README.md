@@ -1,6 +1,7 @@
 
 
 Golang разработчик, закончил школу 21 от Сбера. Студент КНИТУ(Казанский Нациаональный Исследовательский Технологический Университет)
+Стэк: Golang, Kafka, Postgresql, Postman, Docker, Kuber
 
 <p align="center">
 <img width="650" src="snake.svg" alt="snake"/>
